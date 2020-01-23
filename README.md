@@ -27,6 +27,8 @@ The app on the board was created with p+. p+ is available here https://github.co
 
 Please set the user level to 2 in p+.
 
+![p+ subsystem](https://github.com/Mynogs/ESP32-Relay-8/blob/master/Pics/Rel8%20subsystem.png)
+
 ### Android
 
 I use the IoT Remote Control software on my Android phone.
