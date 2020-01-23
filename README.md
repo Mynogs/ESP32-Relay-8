@@ -24,6 +24,7 @@ The app on the board was created with p+. p+ is available here https://github.co
 Please set the user level to 2 in p+.
 
 I use the IoT Remote Control software on my Android phone.
+
 Add a new button in the app. Configure it as follows:
 
 Action Type: UDP
