@@ -25,10 +25,17 @@ Please set the user level to 2 in p+.
 
 I use the IoT Remote Control software on my Android phone.
 Add a new button in the app. Configure it as follows:
+
 Action Type: UDP
+
 Contenet q.q = true
+
 Host: 192.168.4.1
+
 Port: 20000
+
 This turns on the first realy.
+
 Insert the next button, this time with q.q = false. This switches off the first relay.
+
 The second relay is called q.r, the third q.s and so on.
